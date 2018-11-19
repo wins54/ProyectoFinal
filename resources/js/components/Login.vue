@@ -15,7 +15,7 @@
 
                         </div>
                     </div><!--End off row -->
-                </div><!--End off container -->
+                </div>
             </section>
  
             <section id="contact" class="contact bg-mega fix">
