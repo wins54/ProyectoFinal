@@ -14,7 +14,7 @@
                             </div>
 
                         </div>
-                    </div><!--End off row -->
+                    </div>
                 </div>
             </section>
  
