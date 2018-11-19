@@ -18,7 +18,7 @@
                 </div><!--End off container -->
             </section><!-- End off Impress section-->
 
- <!--Contact Us Section-->
+ 
             <section id="contact" class="contact bg-mega fix">
                 <div class="container">
                     <div class="row">
