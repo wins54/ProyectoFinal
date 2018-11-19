@@ -79,7 +79,7 @@
                         </div>
                     </div><!--End off row -->
                 </div><!--End off container -->
-            </section><!--End off Contact Section-->
+            </section>
    
 
 </div>
